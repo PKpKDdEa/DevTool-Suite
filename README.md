@@ -187,7 +187,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 **pkpkpkddea**
 
-- GitHub: [@pkpkpkddea](https://github.com/pkpkpkddea)
+- GitHub: [@pkpkpkddea](https://github.com/PKpKDdEa)
 - npm: [@pkpkpkddea](https://www.npmjs.com/~pkpkpkddea)
 
 ---
